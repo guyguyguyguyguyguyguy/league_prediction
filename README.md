@@ -10,3 +10,5 @@
 
 ### main.py contains the final code used for the model and data creation
 
+Data is not in this repo.
+
